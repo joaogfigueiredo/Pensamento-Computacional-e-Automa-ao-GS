@@ -1,0 +1,249 @@
+[
+  {
+    "id": "S001",
+    "categoria": "Direitos",
+    "titulo": "Quem tem direito à Tarifa Social de Energia",
+    "resumo": "Têm direito as unidades consumidoras da Subclasse Residencial Baixa Renda em que os moradores pertencem a uma família inscrita no CadÚnico com renda familiar mensal per capita de até meio salário mínimo, ou em que alguém recebe o Benefício de Prestação Continuada (BPC).",
+    "passos": [
+      "Verifique se a família está inscrita no CadÚnico",
+      "Confira se a renda por pessoa é de até meio salário mínimo, ou se alguém da casa recebe o BPC",
+      "Confirme com a distribuidora de energia da sua região"
+    ],
+    "documentos_necessarios": ["Inscrição no CadÚnico", "Número de Identificação Social (NIS) da família"],
+    "palavras_chave": ["tenho direito", "direito", "tarifa social", "baixa renda", "quem pode", "elegivel", "bpc", "prestacao continuada"],
+    "fonte_nome": "Lei 12.212/2010, art. 2º, incisos I e II (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Resumo educativo de uma lei. Confirme sempre no canal oficial da distribuidora ou da ANEEL."
+  },
+  {
+    "id": "S002",
+    "categoria": "Documentos",
+    "titulo": "Documentos e cadastro para a Tarifa Social",
+    "resumo": "O benefício parte da inscrição da família no CadÚnico (ou do recebimento do BPC). O responsável pela unidade familiar tem direito a receber o seu NIS e o dos demais familiares. A lista exata de documentos para o atendimento é definida pela distribuidora.",
+    "passos": [
+      "Tenha em mãos o NIS do responsável e dos familiares",
+      "Se não estiver no CadÚnico, procure o CRAS ou o setor de cadastro do seu município",
+      "Pergunte à distribuidora quais documentos ela exige"
+    ],
+    "documentos_necessarios": ["NIS do responsável e dos familiares", "Inscrição no CadÚnico"],
+    "palavras_chave": ["documentos", "documento", "levar", "precisa", "nis", "cadastro unico", "cadunico"],
+    "fonte_nome": "Lei 12.212/2010, art. 2º, incisos I e II e § 3º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "A lei não lista todos os documentos de atendimento. Confirme com a distribuidora."
+  },
+  {
+    "id": "S003",
+    "categoria": "Energia",
+    "titulo": "Desconto vigente da Tarifa Social",
+    "resumo": "Pela regra vigente (Lei 15.235/2025), a parcela do consumo de até 80 kWh por mês tem desconto de 100%, e a parcela acima de 80 kWh por mês tem desconto de 0%.",
+    "passos": [
+      "Veja quantos kWh a casa consumiu no mês",
+      "Os primeiros 80 kWh têm desconto de 100%",
+      "O que passar de 80 kWh é cobrado sem desconto"
+    ],
+    "documentos_necessarios": ["Conta de luz (para ver o consumo em kWh)"],
+    "palavras_chave": ["desconto", "80 kwh", "quanto desconto", "quanto de desconto", "percentual", "100%"],
+    "fonte_nome": "Lei 15.235/2025, art. 3º (nova redação do art. 1º da Lei 12.212/2010) (Planalto)",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+    "atualizado_em": "2026-11-17",
+    "aviso": "O desconto vale para a energia consumida; outros encargos da fatura podem continuar. Confirme na distribuidora."
+  },
+  {
+    "id": "S004",
+    "categoria": "Energia",
+    "titulo": "Faixas antigas de desconto (65%, 40% e 10%)",
+    "resumo": "A redação original da Lei 12.212/2010 previa descontos de 65% até 30 kWh, 40% de 31 a 100 kWh e 10% de 101 a 220 kWh. As faixas de 40% e 10% foram revogadas e o desconto foi substituído pela regra de 100% até 80 kWh. As faixas antigas não valem mais.",
+    "passos": [
+      "Use a regra vigente: 100% até 80 kWh por mês",
+      "Se encontrar 65%, 40% ou 10% em algum texto, ele está desatualizado"
+    ],
+    "documentos_necessarios": [],
+    "palavras_chave": ["65%", "40%", "10%", "faixas antigas", "regra antiga", "revogado", "desatualizado", "ainda valem", "ainda vale"],
+    "fonte_nome": "Lei 15.235/2025, art. 3º e art. 5º, IV (Planalto)",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Informação sobre mudança de lei. Confirme a regra aplicada na sua conta com a distribuidora."
+  },
+  {
+    "id": "S005",
+    "categoria": "Direitos",
+    "titulo": "Famílias indígenas e quilombolas",
+    "resumo": "Famílias indígenas e quilombolas inscritas no CadÚnico que atendam às condições da Tarifa Social têm direito a desconto de 100% até o limite de 80 kWh por mês, custeado pela Conta de Desenvolvimento Energético (CDE). O limite era de 50 kWh na redação original de 2010.",
+    "passos": [
+      "Confirme que a família está inscrita no CadÚnico",
+      "Procure a distribuidora para verificar a aplicação do desconto"
+    ],
+    "documentos_necessarios": ["Inscrição no CadÚnico"],
+    "palavras_chave": ["indigena", "indigenas", "quilombola", "quilombolas", "quilombo", "aldeia", "sou indigena", "sou quilombola"],
+    "fonte_nome": "Lei 15.235/2025, art. 3º (nova redação do art. 2º, § 4º, da Lei 12.212/2010) (Planalto)",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Confirme a aplicação na sua conta com a distribuidora."
+  },
+  {
+    "id": "S006",
+    "categoria": "Direitos",
+    "titulo": "Família com doença que usa aparelhos elétricos",
+    "resumo": "Excepcionalmente, também pode ser beneficiada a unidade habitada por família inscrita no CadÚnico, com renda mensal de até 3 salários mínimos, que tenha entre seus membros alguém com doença cujo tratamento exija uso continuado de aparelhos que consomem energia elétrica, nos termos do regulamento.",
+    "passos": [
+      "Confirme a inscrição no CadÚnico",
+      "Reúna o que o regulamento exige para essa situação",
+      "Procure a distribuidora para pedir o enquadramento"
+    ],
+    "documentos_necessarios": ["Inscrição no CadÚnico", "Documentos exigidos pelo regulamento"],
+    "palavras_chave": ["doenca", "doente", "aparelho", "equipamento", "tratamento", "3 salarios minimos", "paciente"],
+    "fonte_nome": "Lei 12.212/2010, art. 2º, § 1º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "As exigências detalhadas estão no regulamento. Confirme com a distribuidora."
+  },
+  {
+    "id": "S007",
+    "categoria": "Direitos",
+    "titulo": "Só uma unidade consumidora por família",
+    "resumo": "A Tarifa Social é aplicada somente a uma única unidade consumidora por família de baixa renda.",
+    "passos": [
+      "Escolha em qual unidade consumidora a família quer o benefício",
+      "Confirme com a distribuidora como indicar a unidade"
+    ],
+    "documentos_necessarios": [],
+    "palavras_chave": ["mais de uma", "duas casas", "em duas casas", "outra casa", "unidade consumidora", "uma unica", "varias contas"],
+    "fonte_nome": "Lei 12.212/2010, art. 2º, § 2º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Confirme com a distribuidora como a regra é aplicada."
+  },
+  {
+    "id": "S008",
+    "categoria": "Atendimento",
+    "titulo": "Mudança de endereço",
+    "resumo": "Quem recebe a Tarifa Social e muda de residência deve informar o novo endereço à distribuidora de energia, sob pena de perder o benefício. A distribuidora faz as alterações e comunica a ANEEL.",
+    "passos": [
+      "Avise a distribuidora sobre o novo endereço",
+      "Peça a confirmação de que a alteração foi registrada"
+    ],
+    "documentos_necessarios": ["Comprovante do novo endereço, se a distribuidora pedir"],
+    "palavras_chave": ["mudei", "mudanca", "mudar", "novo endereco", "endereco", "residencia", "mudei de casa", "mudar de casa"],
+    "fonte_nome": "Lei 12.212/2010, art. 5º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Confirme com a distribuidora qual comprovante ela aceita."
+  },
+  {
+    "id": "S009",
+    "categoria": "Atendimento",
+    "titulo": "Moradia em área irregular ou prédio com várias famílias",
+    "resumo": "Moradores de baixa renda em áreas de ocupação não regular, habitações multifamiliares ou empreendimentos de interesse social podem pedir às prefeituras o cadastramento das famílias no CadÚnico. Se a prefeitura não cadastrar em 90 dias, os moradores podem pedir providências ao Ministério do Desenvolvimento Social.",
+    "passos": [
+      "Peça o cadastramento no CadÚnico à prefeitura",
+      "Guarde o protocolo com a data do pedido",
+      "Se passarem 90 dias sem cadastro, procure o Ministério do Desenvolvimento Social"
+    ],
+    "documentos_necessarios": ["Protocolo do pedido de cadastramento"],
+    "palavras_chave": ["ocupacao", "area irregular", "favela", "predio", "multifamiliar", "prefeitura", "habitacao"],
+    "fonte_nome": "Lei 12.212/2010, art. 3º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Confirme prazos e procedimentos com a prefeitura."
+  },
+  {
+    "id": "S010",
+    "categoria": "Atendimento",
+    "titulo": "A distribuidora deve avisar quem tem direito",
+    "resumo": "O Poder Executivo e as distribuidoras devem informar a todas as famílias inscritas no CadÚnico que atendam às condições da lei o seu direito à Tarifa Social. O Ministério do Desenvolvimento Social e a ANEEL devem atualizar a relação de cadastrados que atendem aos critérios.",
+    "passos": [
+      "Mantenha o CadÚnico atualizado",
+      "Se achar que tem direito e não foi avisado, procure a distribuidora"
+    ],
+    "documentos_necessarios": ["Inscrição atualizada no CadÚnico"],
+    "palavras_chave": ["avisar", "informar", "ninguem avisou", "nao fui avisado", "distribuidora avisa", "atualizar cadastro"],
+    "fonte_nome": "Lei 12.212/2010, art. 4º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Confirme com a distribuidora e com o CRAS."
+  },
+  {
+    "id": "S011",
+    "categoria": "Energia",
+    "titulo": "Renda entre meio e um salário mínimo (isenção de encargos até 120 kWh)",
+    "resumo": "A partir de 1º de janeiro de 2026, famílias inscritas no CadÚnico com renda mensal per capita acima de meio e até um salário mínimo têm isenção, em uma única unidade consumidora, do pagamento das quotas anuais da CDE para consumo mensal de até 120 kWh.",
+    "passos": [
+      "Confirme a inscrição no CadÚnico e a renda por pessoa",
+      "Verifique com a distribuidora se a isenção aparece na conta"
+    ],
+    "documentos_necessarios": ["Inscrição no CadÚnico"],
+    "palavras_chave": ["120 kwh", "um salario minimo", "1 salario minimo", "acima de meio", "isencao", "cde"],
+    "fonte_nome": "Lei 15.235/2025, art. 1º (nova redação do art. 13, § 3º-I, da Lei 10.438/2002) (Planalto)",
+    "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15235.htm",
+    "atualizado_em": "2026-11-17",
+    "aviso": "É isenção de uma cota, não de toda a fatura. Confirme na distribuidora."
+  },
+  {
+    "id": "S012",
+    "categoria": "Energia",
+    "titulo": "Como ler a conta de luz",
+    "resumo": "As distribuidoras devem discriminar nas faturas os valores dos tributos e encargos incidentes sobre as tarifas. Nas faturas de quem recebe a Tarifa Social deve constar, em destaque, que ela foi criada pela Lei 10.438/2002.",
+    "passos": [
+      "Procure na fatura o consumo em kWh",
+      "Veja a parte de tributos e encargos",
+      "Confira se aparece a menção à Tarifa Social"
+    ],
+    "documentos_necessarios": ["Conta de luz"],
+    "palavras_chave": ["fatura", "ler a conta", "entender a conta", "tributos", "encargos", "conta de luz"],
+    "fonte_nome": "Lei 12.212/2010, art. 8º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "O formato da fatura varia por distribuidora."
+  },
+  {
+    "id": "S013",
+    "categoria": "Atendimento",
+    "titulo": "Corte por falta de pagamento e parcelamento",
+    "resumo": "Os critérios para interromper o fornecimento por falta de pagamento, e para parcelar a dívida, de unidades que recebem a Tarifa Social, são definidos em resolução da ANEEL.",
+    "passos": [
+      "Procure a distribuidora antes do vencimento para negociar",
+      "Peça o parcelamento por escrito",
+      "Confirme as regras na resolução da ANEEL sobre o tema"
+    ],
+    "documentos_necessarios": ["Conta de luz em atraso"],
+    "palavras_chave": ["corte", "cortaram", "falta de pagamento", "atraso", "parcelamento", "parcelar", "divida"],
+    "fonte_nome": "Lei 12.212/2010, art. 9º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "As regras exatas estão na resolução da ANEEL. Confirme com a distribuidora."
+  },
+  {
+    "id": "S014",
+    "categoria": "Atendimento",
+    "titulo": "Medidor para cada família em habitação multifamiliar",
+    "resumo": "Quando solicitado e desde que tecnicamente possível, as distribuidoras devem instalar medidores de energia para cada uma das famílias de baixa renda que moram em habitações multifamiliares, regulares ou irregulares.",
+    "passos": [
+      "Faça o pedido de medidor individual à distribuidora",
+      "Guarde o protocolo do pedido"
+    ],
+    "documentos_necessarios": ["Protocolo do pedido"],
+    "palavras_chave": ["medidor", "relogio de luz", "medidor individual", "dividir a conta", "vizinhos"],
+    "fonte_nome": "Lei 12.212/2010, art. 6º (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Depende de viabilidade técnica. Confirme com a distribuidora."
+  },
+  {
+    "id": "S015",
+    "categoria": "Energia",
+    "titulo": "Eficiência energética e Tarifa Social",
+    "resumo": "A lei prevê que o Poder Executivo poderá vincular a concessão do benefício à adesão da unidade de baixa renda a programas de eficiência energética, e que as distribuidoras apliquem pelo menos 60% dos recursos dos seus programas de eficiência em unidades beneficiadas pela Tarifa Social.",
+    "passos": [
+      "Pergunte à distribuidora sobre programas de eficiência energética",
+      "Compare o consumo dos aparelhos para reduzir desperdício"
+    ],
+    "documentos_necessarios": [],
+    "palavras_chave": ["eficiencia", "economizar", "reduzir consumo", "geladeira", "lampada", "chuveiro", "programa"],
+    "fonte_nome": "Lei 12.212/2010, arts. 10 e 11 (Senado Federal)",
+    "fonte_url": "https://legis.senado.leg.br/norma/575854/publicacao/15749932",
+    "atualizado_em": "2026-11-17",
+    "aviso": "Programas variam por distribuidora."
+  }
+]
