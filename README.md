@@ -115,4 +115,4 @@ Data de verificação registrada na base: 2026-11-17.
 
 ## Vídeo técnico
 
-Link: a preencher.
+Link: https://youtu.be/X-Z08RFJbl8

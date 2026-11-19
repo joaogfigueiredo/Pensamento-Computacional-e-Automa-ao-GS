@@ -1,5 +1,5 @@
 Nome do assistente: Citizen Assist AI
 Público atendido: Famílias de baixa renda que querem entender a Tarifa Social de Energia Elétrica
 Integrantes e RM: João Guilherme Figueiredo - RM 572697; Ryan Luther Roque - RM 572993
-Link do repositório GitHub: [COLE AQUI]
-Link do vídeo técnico no YouTube: [COLE AQUI]
+Link do repositório GitHub: https://github.com/joaogfigueiredo/Pensamento-Computacional-e-Automa-ao-GS
+Link do vídeo técnico no YouTube: https://youtu.be/X-Z08RFJbl8
